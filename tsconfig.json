@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@moduleA": ["./modules/moduleA"],
+      "@moduleB": ["./modules/moduleB"]
+    }
+  },
+  "include": ["src/**/*.ts"]
+}
